@@ -53,7 +53,6 @@ class MainActivity : AppCompatActivity() {
     initClickers()
     //hello world master
     //todo i do multiple function
-    // divide
   }
 
   @SuppressLint("SetTextI18n")

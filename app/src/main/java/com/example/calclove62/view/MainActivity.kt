@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
     binding = ActivityMainBinding.inflate(layoutInflater)
     setContentView(binding.root)
     initClickers()
+    //hello world
   }
 
   @SuppressLint("SetTextI18n")

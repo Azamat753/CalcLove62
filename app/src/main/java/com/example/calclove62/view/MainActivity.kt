@@ -53,6 +53,7 @@ class MainActivity : AppCompatActivity() {
     initClickers()
     //hello world master
     //todo i do multiple function
+    // divide
     //todo plus
   }
 

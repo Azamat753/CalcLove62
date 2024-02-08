@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity() {
     setContentView(binding.root)
     initClickers()
     //hello world master
+    //todo i do multiple function
   }
 
   @SuppressLint("SetTextI18n")
